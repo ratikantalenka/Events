@@ -1,8 +1,6 @@
 {
-  "camera": [
-    { "title": "Camera 1", "location": "Pipli toll gate", "longitude": "25.88", "latitude":"77.59" },
-    { "title": "Camera 1", "location": "Pipli toll gate", "longitude": "25.88", "latitude":"77.59" },
-    { "title": "Camera 1", "location": "Pipli toll gate", "longitude": "25.88", "latitude":"77.59" },
-    { "title": "Camera 1", "location": "Pipli toll gate", "longitude": "25.88", "latitude":"77.59" }
+  "cameras": [
+    { "name": "Camera 1", "latitude": 20.2961, "longitude": 85.8245, "location": "Master Canteen, Bhubaneswar" },
+    { "name": "Camera 2", "latitude": 20.2655, "longitude": 85.8442, "location": "Khandagiri Square, Bhubaneswar" }
   ]
 }
