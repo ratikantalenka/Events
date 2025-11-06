@@ -1,6 +1,6 @@
 {
   "upcoming": [
-    { "title": "November Meetup", "date": "2025-11-25", "location": "Bhubaneswar", "details": "Monthly developer meetup" }
+    { "title": "November Meetup", "date": "2025-11-25", "location": "Bhubaneswar", "details": "Monthly developer meetup" },
     { "title": "December Meetup", "date": "2025-12-25", "location": "Bhubaneswar", "details": "Monthly developer meetup" }
   ],
   "past": [
