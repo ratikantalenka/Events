@@ -1,6 +1,7 @@
 {
   "cameras": [
     { "name": "Camera 1", "latitude": 20.2961, "longitude": 85.8245, "location": "Master Canteen, Bhubaneswar" },
-    { "name": "Camera 2", "latitude": 20.2655, "longitude": 85.8442, "location": "Khandagiri Square, Bhubaneswar" }
+    { "name": "Camera 2", "latitude": 20.2655, "longitude": 85.8442, "location": "Khandagiri Square, Bhubaneswar" },
+    { "name": "Camera 3", "latitude": 20.19732461754294, "longitude": 85.85972824649818, "location": "Uttara Square, Bhubaneswar" }
   ]
 }
