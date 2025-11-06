@@ -1,6 +1,7 @@
 {
   "upcoming": [
     { "title": "November Meetup", "date": "2025-11-25", "location": "Bhubaneswar", "details": "Monthly developer meetup" }
+    { "title": "December Meetup", "date": "2025-12-25", "location": "Bhubaneswar", "details": "Monthly developer meetup" }
   ],
   "past": [
     { "title": "October Meetup", "date": "2025-10-20", "location": "Bhubaneswar", "details": "GIS data sharing workshop" }
