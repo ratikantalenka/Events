@@ -1,7 +1,10 @@
 {
   "cameras": [
-    { "name": "Camera 1", "latitude": 20.2961, "longitude": 85.8245, "location": "Master Canteen, Bhubaneswar" },
-    { "name": "Camera 2", "latitude": 20.2655, "longitude": 85.8442, "location": "Khandagiri Square, Bhubaneswar" },
-    { "name": "Camera 3", "latitude": 20.19732461754294, "longitude": 85.85972824649818, "location": "Uttara Square, Bhubaneswar" }
+    { "name": "Camera 1", "latitude": 20.21390022320226, "longitude": 85.85390863473708, "location": "Lingipur" },
+    { "name": "Camera 2", "latitude": 20.21038544158220, "longitude": 85.85218020963205, "location": "Daya Bridge" },
+    { "name": "Camera 3", "latitude": 20.20501776865787, "longitude": 85.85008248644677, "location": "Dhauli Square" }
+    { "name": "Camera 3", "latitude": 20.19757362187098, "longitude": 85.85955692428254, "location": "Uttara Square" }
+    { "name": "Camera 3", "latitude": 20.17652781960324, "longitude": 85.85883981341885, "location": "Ramchandra Nivas" }
+    { "name": "Camera 3", "latitude": 20.16652510187375, "longitude": 85.85643699475662, "location": "Gudia Pokhari" }
   ]
 }
