@@ -1,10 +1,9 @@
 {
   "cameras": [
-    { "name": "Camera 1", "latitude": 20.21390022320226, "longitude": 85.85390863473708, "location": "Lingipur" },
-    { "name": "Camera 2", "latitude": 20.21038544158220, "longitude": 85.85218020963205, "location": "Daya Bridge" },
-    { "name": "Camera 3", "latitude": 20.20501776865787, "longitude": 85.85008248644677, "location": "Dhauli Square" },
-    { "name": "Camera 4", "latitude": 20.19757362187098, "longitude": 85.85955692428254, "location": "Uttara Square" },
-    { "name": "Camera 5", "latitude": 20.17652781960324, "longitude": 85.85883981341885, "location": "Ramchandra Nivas" },
-    { "name": "Camera 6", "latitude": 20.16652510187375, "longitude": 85.85643699475662, "location": "Gudia Pokhari" }
+    { "name": "Camera 1", "latitude": 20.22302422173440, "longitude": 85.8445257994371, "location": "Nuagaon Petrol Pump" },
+    { "name": "Camera 2", "latitude": 20.213805055757422, "longitude": 85.84151719144768, "location": "Jadumalli" },
+    { "name": "Camera 3", "latitude": 20.230422153172146, "longitude": 85.84124186479515, "location": "Khimji Jewellers" },
+    { "name": "Camera 4", "latitude": 20.24467475040288, "longitude": 85.84107607575088, "location": "Ravi Talkies" },
+    { "name": "Camera 5", "latitude": 20.258110071076615, "longitude": 85.84127942891115, "location": "Kalpana Square" }
   ]
 }
