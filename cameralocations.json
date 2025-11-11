@@ -1,6 +1,6 @@
 {
   "cameras": [
-    { "name": "Camera 1", "latitude": 20.22302422173440, "longitude": 85.8445257994371, "location": "Nuagaon Petrol Pump" },
+    { "name": "Camera 1", "latitude": 20.28716077962511, "longitude": 85.81847043208063, "location": "Prajapati Resort" },
     { "name": "Camera 2", "latitude": 20.213805055757422, "longitude": 85.84151719144768, "location": "Jadumalli" },
     { "name": "Camera 3", "latitude": 20.230422153172146, "longitude": 85.84124186479515, "location": "Khimji Jewellers" },
     { "name": "Camera 4", "latitude": 20.24467475040288, "longitude": 85.84107607575088, "location": "Ravi Talkies" },
